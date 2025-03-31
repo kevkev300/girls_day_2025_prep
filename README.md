@@ -1,6 +1,6 @@
 # How to
 
-`rails new girls_dat_2025_prep --database=postgresql --css=bootstrap`
+`rails new girls_day_2025_prep --database=postgresql --css=bootstrap`
 
 `rails db:create`
 
